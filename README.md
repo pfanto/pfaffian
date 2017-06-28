@@ -8,6 +8,9 @@ This Supplemental Material repository contains the codes and data files necessar
 to carry out the particle-number projection in the single j-shell model described
 in the main text.
 
+The directory pfproj/ contains the Python codes and data files required to make all the figures
+shown in the article.  Its subdirectories are:
+
 scripts/: This directory contains the Python codes to use the Pfaffian formula. 
 This directory also includes a Python code to do the projection explicitly in the
 many-particle space.
@@ -17,4 +20,4 @@ formula against those of the explicit projection.
 
 proof.pdf contains the proof of the results in Eqs. (4) and (5) of the main text.
 
-Direct any questions to the email address listed above.
+Direct any questions to paul.fanto@yale.edu.
